@@ -1,0 +1,42 @@
+D:\Моя папка\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.deps.json
+D:\Моя папка\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.runtimeconfig.json
+D:\Моя папка\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.runtimeconfig.dev.json
+D:\Моя папка\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.dll
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.csprojAssemblyReference.cache
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.csproj.CoreCompileInputs.cache
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorAssemblyInfo.cache
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorAssemblyInfo.cs
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.AssemblyInfoInputs.cache
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.AssemblyInfo.cs
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorTargetAssemblyInfo.cache
+D:\Моя папка\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.pdb
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.dll
+D:\Моя папка\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.pdb
+D:\Users\Downloads\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.deps.json
+D:\Users\Downloads\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.runtimeconfig.json
+D:\Users\Downloads\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.runtimeconfig.dev.json
+D:\Users\Downloads\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.dll
+D:\Users\Downloads\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.pdb
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.csproj.CoreCompileInputs.cache
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorAssemblyInfo.cache
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorAssemblyInfo.cs
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.AssemblyInfoInputs.cache
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.AssemblyInfo.cs
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorTargetAssemblyInfo.cache
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.dll
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.pdb
+D:\Users\Downloads\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.csprojAssemblyReference.cache
+D:\Download\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.deps.json
+D:\Download\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.runtimeconfig.json
+D:\Download\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.runtimeconfig.dev.json
+D:\Download\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.dll
+D:\Download\ASPcore2\ASPcore2\bin\Debug\netcoreapp2.1\ASPcore2.pdb
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.csprojAssemblyReference.cache
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.csproj.CoreCompileInputs.cache
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorAssemblyInfo.cache
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorAssemblyInfo.cs
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.AssemblyInfoInputs.cache
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.AssemblyInfo.cs
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.RazorTargetAssemblyInfo.cache
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.dll
+D:\Download\ASPcore2\ASPcore2\obj\Debug\netcoreapp2.1\ASPcore2.pdb
